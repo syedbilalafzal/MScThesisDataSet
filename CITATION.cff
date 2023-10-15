@@ -1,0 +1,7 @@
+@misc{Dataset for Thesis 2023,
+  author = {Syed Bilal Afzal Ashraf},
+  month = {10},
+  year = {2023},
+  title = {{OFFLOAD DNS PACKET FROM UPF TO P4-CAPABLE SWITCH}},
+  url = {https://github.com/syedbilalafzal/MScThesisDataSet.git}
+}
